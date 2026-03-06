@@ -1,6 +1,12 @@
 # Power-BI
 🔹Clinic Report Analysis Dashboard : A dynamic, interactive and data visualisation dashboard is built using a realistic Hospital Analytics Dataset.
 
-🔹Purpose : Understanding raw data to creating meaningful business insights using data modeling, DAX measures, and interactive visuals in Power BI,focussing on       doctors, patients and other important details connected to that particular hospital.
+🔹Purpose : Here we have considered 2 months of raw data to create meaningful business insights using data modeling, DAX measures, and interactive visuals in Power    BI. Main focus is on doctors, patients and other important details connected to that particular hospital.
 
-🔹![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/main/Clinic%20Report%20Final.png)
+🔹Bussiness Data that a hospital admin may be concerned about : 
+.
+    •Total number of Patients
+    •Number of patients in each Department.  
+    •Patient Count by Gender
+
+ ![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/main/Clinic%20Report%20Final.png)
