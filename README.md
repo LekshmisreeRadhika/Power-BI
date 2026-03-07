@@ -20,4 +20,4 @@
 
  ![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/main/Clinic%20Report%20Final.png)
 
- ![Dashboard Preview]
+ ![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/3f38555f1d9df4d9f26fa4eb6f9d8588887b412b/Sales%20Report%20Final.png)
