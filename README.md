@@ -4,12 +4,17 @@
 🔹Purpose : Here we have considered 2 months of raw data to create meaningful business insights using data modeling, DAX measures, and interactive visuals in Power    BI. Main focus is on doctors, patients and other important details connected to that particular hospital.
 
 🔹Bussiness Data that a hospital admin may be concerned about : 
-.
+
     •Total number of Patients
-    •Number of patients in each Department.  
+    
+    •Number of patients in each Department
+    
     •Patient Count by Gender
+    
     •Patient Count by Age group
+    
     •IN Patient Percentage
+    
     •DAP(Daily Average Patients)
     
 
