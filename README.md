@@ -19,3 +19,5 @@
     
 
  ![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/main/Clinic%20Report%20Final.png)
+
+ ![Dashboard Preview]
