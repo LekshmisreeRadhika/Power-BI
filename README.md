@@ -8,5 +8,9 @@
     •Total number of Patients
     •Number of patients in each Department.  
     •Patient Count by Gender
+    •Patient Count by Age group
+    •IN Patient Percentage
+    •DAP(Daily Average Patients)
+    
 
  ![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/main/Clinic%20Report%20Final.png)
