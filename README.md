@@ -20,9 +20,9 @@
 
  ![Dashboard Preview](https://github.com/LekshmisreeRadhika/Power-BI/blob/main/Clinic%20Report%20Final.png)
 
-––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
- ––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
-
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+ 
  
  🔹Sales Data Analysis Report : A dynamic, interactive and data visualisation dashboard is built using a realistic Sales Dataset.This data is set up using 5 tables. We have one Fact table(Transtional table) and four Dimension tables(Lookup table).
 
