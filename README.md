@@ -37,10 +37,10 @@
     •Total Shipments
     
     •Total Cost
+    l Profit and Profit %
     
-    •Total Profit and Profit %
-    
-    •LBS(Low Box Shipments) AND lbs %
+    •LBS(Low Box Shipments) AN
+    •TotaD lbs %
 
     •MOM(Month on Month Changes)
  
